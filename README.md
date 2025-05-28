@@ -1,1 +1,6 @@
-# projetIAtijanibeffa
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+joblib
